@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Power BI temporales
+*.tmp
+
+# Editores
+.vscode/
+.idea/
+
+# NOTA: los .csv/.xlsx de data/ SÍ se versionan (son el dataset del proyecto).
+# Si el CSV supera 100 MB usa Git LFS (ver GUIA_PUBLICACION.md).
