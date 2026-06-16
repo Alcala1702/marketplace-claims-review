@@ -4,6 +4,8 @@ Proyecto de portafolio de **análisis de datos**: generación de datos sintétic
 
 > ⚠️ **Datos 100% sintéticos.** La base fue generada con Python/pandas/numpy. No contiene información real de ninguna empresa ni persona. Está diseñada para parecer realista y permitir storytelling analítico sin exponer datos sensibles. **No usar para conclusiones del mundo real.**
 
+📊 **También en Kaggle:** [Dataset](https://www.kaggle.com/datasets/luisalcal/marketplace-claims-review-synthetic-latam) · [Notebook de EDA](https://www.kaggle.com/code/luisalcal/01-eda-reclamos-kaggle)
+
 ---
 
 ## 🎯 El problema simulado
