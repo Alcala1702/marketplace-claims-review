@@ -1,0 +1,8 @@
+{
+  "title": "Marketplace Claims Review (synthetic, LATAM)",
+  "id": "alcala1702/marketplace-claims-review-synthetic",
+  "licenses": [{ "name": "CC-BY-4.0" }],
+  "subtitle": "204k casos sinteticos de revision de reclamos en e-commerce LATAM",
+  "description": "Dataset 100% sintetico que simula la operacion de revision de reclamos de un marketplace en Latinoamerica. 204.656 casos, 32 representantes, 9 paises, ene-ago 2025. Incluye SLA, riesgo, restricciones, rollback y una bandera de calidad de gestion. Generado con Python/pandas/numpy. NO usar para conclusiones del mundo real. Ver DATA_CARD.md para columnas, metodo de generacion, preguntas de analisis y limitaciones.",
+  "keywords": ["business", "synthetic", "ecommerce", "customer service", "fraud", "latin america", "tabular"]
+}
